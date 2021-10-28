@@ -1,4 +1,6 @@
 # PebbleGame
+Repository to hold source code for implementing Pebble game for 2nd year project for software development module
+
 Using JUnit version 4.12
 
 ## Compile
@@ -14,6 +16,6 @@ Using JUnit version 4.12
 * `java -cp .:test/example_file_2.txt:./com/company/*:./com/* org.junit.runner.JUnitCore com.company.PebbleGameTest`
 * `java -cp .:test/example_file_2.txt:./com/company/*:./com/* org.junit.runner.JUnitCore com.company.BagTest`
 
-## Test Resul
+## Test Results
 For the PebbleGameTest should get OK (11 tests)
-For the PebbleGameTest should get OK (4 tests)
+For the BagTest should get OK (4 tests)
