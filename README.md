@@ -3,6 +3,12 @@ Repository to hold source code for implementing Pebble game for 2nd year project
 
 Using JUnit version 4.12
 
+## Run Game
+
+Enter into directory where repository is cloned and run:
+
+java -jar pebbles.jar
+
 ## Compile
 
 * `cd test/com/company`
