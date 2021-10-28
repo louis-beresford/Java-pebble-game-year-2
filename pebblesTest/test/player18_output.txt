@@ -1,0 +1,40 @@
+player18 has discarded a 15 to bag A
+player18 hand is [20, 15, 20, 20, 15, 20, 10, 10, 20]
+player18 has drawn a 20 from bag Z
+player18 hand is [20, 15, 20, 20, 15, 20, 10, 10, 20, 20]
+player18 has discarded a 15 to bag A
+player18 hand is [20, 15, 20, 20, 20, 10, 10, 20, 20]
+player18 has drawn a 20 from bag Z
+player18 hand is [20, 15, 20, 20, 20, 10, 10, 20, 20, 20]
+player18 has discarded a 20 to bag A
+player18 hand is [20, 15, 20, 20, 10, 10, 20, 20, 20]
+player18 has drawn a 15 from bag Z
+player18 hand is [20, 15, 20, 20, 10, 10, 20, 20, 20, 15]
+player18 has discarded a 20 to bag B
+player18 hand is [20, 15, 20, 20, 10, 10, 20, 20, 15]
+player18 has drawn a 5 from bag Y
+player18 hand is [20, 15, 20, 20, 10, 10, 20, 20, 15, 5]
+player18 has discarded a 10 to bag A
+player18 hand is [20, 15, 20, 20, 10, 20, 20, 15, 5]
+player18 has drawn a 15 from bag X
+player18 hand is [20, 15, 20, 20, 10, 20, 20, 15, 5, 15]
+player18 has discarded a 15 to bag B
+player18 hand is [20, 15, 20, 20, 10, 20, 20, 15, 5]
+player18 has drawn a 20 from bag Y
+player18 hand is [20, 15, 20, 20, 10, 20, 20, 15, 5, 20]
+player18 has discarded a 5 to bag A
+player18 hand is [20, 15, 20, 20, 10, 20, 20, 15, 20]
+player18 has drawn a 15 from bag Z
+player18 hand is [20, 15, 20, 20, 10, 20, 20, 15, 20, 15]
+player18 has discarded a 20 to bag A
+player18 hand is [20, 15, 20, 20, 10, 20, 15, 20, 15]
+player18 has drawn a 20 from bag Z
+player18 hand is [20, 15, 20, 20, 10, 20, 15, 20, 15, 20]
+player18 has discarded a 20 to bag A
+player18 hand is [20, 15, 20, 20, 10, 20, 15, 20, 15]
+player18 has drawn a 20 from bag Y
+player18 hand is [20, 15, 20, 20, 10, 20, 15, 20, 15, 20]
+player18 has discarded a 15 to bag B
+player18 hand is [20, 20, 20, 10, 20, 15, 20, 15, 20]
+player18 has drawn a 15 from bag Y
+player18 hand is [20, 20, 20, 10, 20, 15, 20, 15, 20, 15]

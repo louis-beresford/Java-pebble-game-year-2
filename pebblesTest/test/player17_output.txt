@@ -1,0 +1,40 @@
+player17 has discarded a 20 to bag C
+player17 hand is [15, 10, 5, 15, 20, 15, 5, 20, 10]
+player17 has drawn a 15 from bag Z
+player17 hand is [15, 10, 5, 15, 20, 15, 5, 20, 10, 15]
+player17 has discarded a 10 to bag C
+player17 hand is [15, 5, 15, 20, 15, 5, 20, 10, 15]
+player17 has drawn a 15 from bag X
+player17 hand is [15, 5, 15, 20, 15, 5, 20, 10, 15, 15]
+player17 has discarded a 15 to bag B
+player17 hand is [15, 5, 15, 20, 5, 20, 10, 15, 15]
+player17 has drawn a 10 from bag Y
+player17 hand is [15, 5, 15, 20, 5, 20, 10, 15, 15, 10]
+player17 has discarded a 15 to bag C
+player17 hand is [15, 5, 15, 20, 5, 20, 10, 15, 10]
+player17 has drawn a 15 from bag X
+player17 hand is [15, 5, 15, 20, 5, 20, 10, 15, 10, 15]
+player17 has discarded a 15 to bag B
+player17 hand is [5, 15, 20, 5, 20, 10, 15, 10, 15]
+player17 has drawn a 10 from bag Y
+player17 hand is [5, 15, 20, 5, 20, 10, 15, 10, 15, 10]
+player17 has discarded a 20 to bag C
+player17 hand is [5, 15, 20, 5, 10, 15, 10, 15, 10]
+player17 has drawn a 15 from bag X
+player17 hand is [5, 15, 20, 5, 10, 15, 10, 15, 10, 15]
+player17 has discarded a 20 to bag C
+player17 hand is [5, 15, 5, 10, 15, 10, 15, 10, 15]
+player17 has drawn a 20 from bag X
+player17 hand is [5, 15, 5, 10, 15, 10, 15, 10, 15, 20]
+player17 has discarded a 15 to bag B
+player17 hand is [5, 5, 10, 15, 10, 15, 10, 15, 20]
+player17 has drawn a 5 from bag X
+player17 hand is [5, 5, 10, 15, 10, 15, 10, 15, 20, 5]
+player17 has discarded a 20 to bag B
+player17 hand is [5, 5, 10, 15, 10, 15, 10, 15, 5]
+player17 has drawn a 20 from bag Y
+player17 hand is [5, 5, 10, 15, 10, 15, 10, 15, 5, 20]
+player17 has discarded a 15 to bag B
+player17 hand is [5, 5, 10, 15, 10, 10, 15, 5, 20]
+player17 has drawn a 15 from bag X
+player17 hand is [5, 5, 10, 15, 10, 10, 15, 5, 20, 15]

@@ -1,0 +1,48 @@
+player14 has discarded a 5 to bag C
+player14 hand is [20, 15, 15, 10, 15, 20, 10, 15, 10]
+player14 has drawn a 5 from bag Z
+player14 hand is [20, 15, 15, 10, 15, 20, 10, 15, 10, 5]
+player14 has discarded a 20 to bag A
+player14 hand is [15, 15, 10, 15, 20, 10, 15, 10, 5]
+player14 has drawn a 15 from bag Z
+player14 hand is [15, 15, 10, 15, 20, 10, 15, 10, 5, 15]
+player14 has discarded a 10 to bag C
+player14 hand is [15, 15, 10, 15, 20, 10, 15, 5, 15]
+player14 has drawn a 5 from bag Z
+player14 hand is [15, 15, 10, 15, 20, 10, 15, 5, 15, 5]
+player14 has discarded a 20 to bag A
+player14 hand is [15, 15, 10, 15, 10, 15, 5, 15, 5]
+player14 has drawn a 20 from bag Z
+player14 hand is [15, 15, 10, 15, 10, 15, 5, 15, 5, 20]
+player14 has discarded a 15 to bag C
+player14 hand is [15, 15, 10, 10, 15, 5, 15, 5, 20]
+player14 has drawn a 15 from bag Y
+player14 hand is [15, 15, 10, 10, 15, 5, 15, 5, 20, 15]
+player14 has discarded a 15 to bag C
+player14 hand is [15, 15, 10, 10, 15, 5, 15, 5, 20]
+player14 has drawn a 20 from bag X
+player14 hand is [15, 15, 10, 10, 15, 5, 15, 5, 20, 20]
+player14 has discarded a 5 to bag A
+player14 hand is [15, 15, 10, 10, 15, 5, 15, 20, 20]
+player14 has drawn a 15 from bag Z
+player14 hand is [15, 15, 10, 10, 15, 5, 15, 20, 20, 15]
+player14 has discarded a 15 to bag A
+player14 hand is [15, 15, 10, 10, 15, 5, 20, 20, 15]
+player14 has drawn a 20 from bag X
+player14 hand is [15, 15, 10, 10, 15, 5, 20, 20, 15, 20]
+player14 has discarded a 10 to bag B
+player14 hand is [15, 15, 10, 15, 5, 20, 20, 15, 20]
+player14 has drawn a 15 from bag Y
+player14 hand is [15, 15, 10, 15, 5, 20, 20, 15, 20, 15]
+player14 has discarded a 15 to bag A
+player14 hand is [15, 15, 10, 15, 5, 20, 20, 15, 20]
+player14 has drawn a 20 from bag X
+player14 hand is [15, 15, 10, 15, 5, 20, 20, 15, 20, 20]
+player14 has discarded a 10 to bag A
+player14 hand is [15, 15, 15, 5, 20, 20, 15, 20, 20]
+player14 has drawn a 20 from bag X
+player14 hand is [15, 15, 15, 5, 20, 20, 15, 20, 20, 20]
+player14 has discarded a 5 to bag A
+player14 hand is [15, 15, 15, 20, 20, 15, 20, 20, 20]
+player14 has drawn a 15 from bag Y
+player14 hand is [15, 15, 15, 20, 20, 15, 20, 20, 20, 15]
